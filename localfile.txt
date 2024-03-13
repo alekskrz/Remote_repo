@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new local textfile
+=======
+conflict resolved
+>>>>>>> 0b1159a5fb62b78b12cdf224983a80b06c58de91
