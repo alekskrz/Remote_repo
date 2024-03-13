@@ -1,1 +1,1 @@
-local textfile
+new local textfile
