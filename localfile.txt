@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new conflict
+=======
+Just more mistakes
+>>>>>>> 69113df5dfddd1698a0439549cc71db9b16091c3
